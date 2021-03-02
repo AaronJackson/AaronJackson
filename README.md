@@ -1,6 +1,11 @@
 ### 👋 Hi! I'm Aaron
 
-I am a Research Fellow in the School of Computer Science at the University of Nottingham. 
-I am a member of the [Computer Vision Laboratory](http://cvl.cs.nott.ac.uk) and my research falls mainly into the categories of 3D reconstruction and image based plant phenotyping. 
-Outside of work, I spend the majority of my time drinking absurd amounts of tea, listening to music, cycling around Nottingham, tinkering with electronics, fiddling with radios (M6PIU) and trying to repair old computers.
-If you're feeling brave you can see what I'm up to by taking a look at my [blog](https://aaronsplace.co.uk/blog). 
+There's a lot of mess in here... Let me try to give you some guidance.
+
+- Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric Regression" [vrn](./vrn)
+- A poorly written web server for your PDP-11 [2.11BSDhttpd](./2.11BSDhttpd)
+- A lisp written in K&R C for your PDP-11 [bnlisp](./bnlisp)
+
+Ah, actually... when you skim the crud off the top, there isn't actually much here.
+
+Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk)
