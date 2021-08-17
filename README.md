@@ -8,4 +8,4 @@ There's a lot of mess in here... Let me try to give you some guidance.
 
 Ah, actually... not much interesting stuff here...
 
-Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk)
+Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk) or [ask me a question](https://github.com/AaronJackson/AaronJackson/issues/new?assignees=AaronJackson&labels=Question&template=QA.yml&title=%5BQuestion%5D%3A++)
