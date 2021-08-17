@@ -1,0 +1,15 @@
+name: Ask Me Anything
+description: Ask Aaron a question
+title: "[Question]:  "
+labels: [Question]
+assignees:
+  - AaronJackson
+body:
+  - type: textarea
+    id: Question
+    attributes:
+      label: Question
+      description: Put your question here
+      placeholder: e.g. How tall are you?
+    validations:
+      required: true
