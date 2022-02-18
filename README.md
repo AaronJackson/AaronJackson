@@ -12,6 +12,8 @@ Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk) o
 
 ### Recent blog posts
 
+This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
+
 <!--START_SECTION:feed-->
 * [Going a bit crazy with Home Assistant and Zigbee](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-01-09-home-assistant.html)
 * [A Continuous Integration Pipeline for the PDP-11 (2.11BSD)](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2021-10-23-continuous-intengration-pipeline-for-the-pdp-11.html)
