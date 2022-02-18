@@ -13,5 +13,5 @@ Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk) o
 ### Recent blog posts
 
 <!--START_SECTION:feed-->
-
+...
 <!--END_SECTION:feed-->
