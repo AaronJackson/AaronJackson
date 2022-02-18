@@ -9,3 +9,9 @@ There's a lot of mess in here... Let me try to give you some guidance.
 - 😈 Some attempts at drivers in my 2.11BSD [fork](https://github.com/AaronJackson/2.11BSD), including a dummy driver for learning, and a driver for the IBV11 GPIB controller. See branches!
 
 Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk) or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46dc) 🌳
+
+### Recent blog posts
+
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
