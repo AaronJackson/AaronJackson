@@ -15,9 +15,9 @@ Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk) o
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [Joining Nottingham Hackspace (and making something)](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-06-11-joining-nottingham-hackspace.html)
+* [EMF Camp 2022](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-06-03-emf-camp-2022.html)
 * [e-ink display for Home Assistant &amp; Grafana](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-05-21-e-ink-display-dashboard-home-assistant.html)
 * [Improving my desk situation](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-03-22-improving-my-desk-situation.html)
 * [Making some progress with the cabling](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-03-19-some-cabling-progress.html)
-* [Notes to myself about YubiKeys](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-02-21-notes-to-self-on-yubikey.html)
-* [Going a bit crazy with Home Assistant and Zigbee](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-01-09-home-assistant.html)
 <!--END_SECTION:feed-->
