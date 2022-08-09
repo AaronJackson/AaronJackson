@@ -15,8 +15,13 @@
   [fork](https://github.com/AaronJackson/2.11BSD), including a dummy
   driver for learning, and a driver for the IBV11 GPIB controller. See
   branches and PRs!
+- 🤖 A GitHub Action for 2.11BSD continuous integration testing (on an
+  emulated PDP-11)
+  [2.11BSD-Action](https://github.com/AaronJackson/2.11BSD-Action)
 
-Feel free to stalk on my website [aaronsplace.co.uk](http://aaronsplace.co.uk) or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46dc) 🌳
+Feel free to stalk on my website
+[aaronsplace.co.uk](http://aaronsplace.co.uk)
+or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46dc) 🌳
 
 
 ### Recent blog posts
