@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/2952300430/1611758111/1500x500)
+![Banner](https://media.hachyderm.io/accounts/headers/109/372/000/468/352/129/original/336a307348fa4db2.jpg)
 
 - 🤡 Code for "Large Pose 3D Face Reconstruction from a Single Image
   via Direct Volumetric Regression"
