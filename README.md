@@ -27,9 +27,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [Hacking a doorbell (adding WiFi)](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-12-29-hacking-a-doorbell.html)
 * [Zen CityFibre &#x2F; EdgeRouter](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-08-18-zen-cityfibre-fttp.html)
 * [Learning about milling](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-08-14-milling.html)
 * [Levoit Air Purifier with Home Assistant](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-08-09-levoit-air-purifier-esphome-home-assistant.html)
 * [Growing Elm Oyster Mushrooms](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-07-28-growing-mushrooms.html)
-* [Joining Nottingham Hackspace (and making something)](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2022-06-11-joining-nottingham-hackspace.html)
 <!--END_SECTION:feed-->
