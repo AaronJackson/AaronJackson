@@ -15,7 +15,9 @@
   branches and PRs!
 - 🤖 A GitHub Action for 2.11BSD continuous integration testing (on an
   emulated PDP-11)
-  [2.11BSD-Action](https://github.com/AaronJackson/2.11BSD-Action)
+  [2.11BSD-Action](https://github.com/AaronJackson/2.11BSD-Action) along 
+  with a GitHub repo and workflow which builds distribution files
+  [2.11BSD-Distribution-Builder](https://github.com/AaronJackson/2.11BSD-Distribution-Builder)
 
 Feel free to stalk on my website
 [aaronsplace.co.uk](http://aaronsplace.co.uk)
