@@ -29,9 +29,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [RSECon 23](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-10-26-rsecon2023.html)
+* [A Nixie Clock](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-10-26-nixie-clock.html)
 * [Nottingham Industrial Museum](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-07-31-nottingham-industrial-museum.html)
 * [A more permanent VAX 4000 power supply](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-07-09-a-better-solution-to-the-vax-4000-power-supply.html)
 * [Trip to Sweden](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-03-14-a-trip-to-sweden.html)
-* [IPv6 with Zen CityFibre and an EdgeRouter](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-03-01-ipv6-edgerouter-cityfibre-zen.html)
-* [Nottingham Lightnight 2023 ](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-02-04-nottigham-lightnight-2023.html)
 <!--END_SECTION:feed-->
