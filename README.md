@@ -29,9 +29,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [Adafruit Feather 32u4 LoRa (RFM69) as a Pager Transmitter](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-03-30-adafruit-feather-32u4-lora-board-sending-pagers-pocsag.html)
+* [Train Departures Board at Nottingham Hackspace](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-03-02-train-departures-display.html)
 * [A trip to Jodrell Bank](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-11-25-jodrell-bank.html)
 * [RSECon 23](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-10-26-rsecon2023.html)
 * [A Nixie Clock](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-10-26-nixie-clock.html)
-* [Nottingham Industrial Museum](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-07-31-nottingham-industrial-museum.html)
-* [A more permanent VAX 4000 power supply](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-07-09-a-better-solution-to-the-vax-4000-power-supply.html)
 <!--END_SECTION:feed-->
