@@ -29,9 +29,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [Antenna Rotator](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-10-07-antenna-rotator.html)
+* [Meshtastic](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-09-19-lora-meshtastic.html)
 * [EMF Camp 2024](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-06-03-emf-camp-2024.html)
 * [Another LED Matrix Display](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-05-26-laser-display.html)
 * [Adafruit Feather 32u4 LoRa (RFM69) as a Pager Transmitter](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-03-30-adafruit-feather-32u4-lora-board-sending-pagers-pocsag.html)
-* [Train Departures Board at Nottingham Hackspace](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-03-02-train-departures-display.html)
-* [A trip to Jodrell Bank](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2023-11-25-jodrell-bank.html)
 <!--END_SECTION:feed-->
