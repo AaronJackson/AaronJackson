@@ -1,3 +1,5 @@
+Personal projects will probably end up being more active on SourceHut https://sr.ht/~asj/
+
 - 🤡 Code for "Large Pose 3D Face Reconstruction from a Single Image
   via Direct Volumetric Regression"
   [vrn](https://github.com/AaronJackson/vrn), which is also available
