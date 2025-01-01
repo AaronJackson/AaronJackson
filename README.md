@@ -31,9 +31,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [What I&#39;ve done this year](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-12-21-what-ive-done-this-year.html)
 * [Uses This](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-11-30-uses-this.html)
 * [Jodrell Bank](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-11-04-jodrell-bank-again.html)
 * [Antenna Rotator... and Satellite Dishes](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-10-18-antenna-rotator.html)
 * [Antenna Rotator](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-10-07-antenna-rotator.html)
-* [Meshtastic](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-09-19-lora-meshtastic.html)
 <!--END_SECTION:feed-->
