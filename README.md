@@ -31,9 +31,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [Building an LED Matrix](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-02-27-building-an-led-matrix.html)
 * [Every kitchen needs an LED matrix](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-01-06-kitchen-display.html)
 * [Building PDP-11 Memory](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-01-02-pdp11-memory.html)
 * [Train Departure Board (v2)](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-01-02-departure-board-v2.html)
 * [What I&#39;ve done this year](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-12-21-what-ive-done-this-year.html)
-* [Uses This](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2024-11-30-uses-this.html)
 <!--END_SECTION:feed-->
