@@ -31,9 +31,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [Debugging ATTiny1616 with Atmel ICE](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-10-18-attiny1616-debugging.html)
+* [Flipdot Display!](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-10-12-flipdots.html)
+* [Ear-lectronics](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-10-10-earlectronics.html)
 * [MNT Pocket Reform](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-08-26-mnt-pocket-reform.html)
 * [Power over Ethernet, LaserDiscs, miscellaneous projects](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-08-20-various-updates.html)
-* [Nottingham City Farm](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-05-15-nottingham-city-farm.html)
-* [Tektronix TDS3014](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-05-12-tektronix-tds3014.html)
-* [Fixing my Kenwood TH-D74e](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-03-19-fixing-kenwood-th-d74e.html)
 <!--END_SECTION:feed-->
