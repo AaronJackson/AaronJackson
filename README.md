@@ -1,4 +1,4 @@
-Personal projects will probably end up being more active on SourceHut https://sr.ht/~asj/
+Personal projects are mainly going to my personal cgit instance https://git.aaronsplace.co.uk/cgit
 
 - 🤡 Code for "Large Pose 3D Face Reconstruction from a Single Image
   via Direct Volumetric Regression"
