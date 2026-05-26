@@ -31,9 +31,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [Full Ice Scrimmage!](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-25-scrimmaging.html)
+* [The HP 2225 ThinkJet](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-hp-2225-thinkjet-replacement-flex-pcb.html)
+* [GPO Phone Exchange Lamp](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-gpo-alarm-lamp.html)
+* [Hockey Jersey Sublimation Printing](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-16-sublimation-jerseys.html)
 * [Hockey Lessons are Fun](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-04-12-the-hockey-lessons.html)
-* [Too many hobbies](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-04-04-too-many-things.html)
-* [2026 IIHF Continental Cup Final (Photo Dump...)](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-01-17-continental-cup-final-2026-photo-dump.html)
-* [What I&#39;ve done this year](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-12-22-what-ive-done-this-year.html)
-* [Ice Skating!](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2025-11-03-ice-skating.html)
 <!--END_SECTION:feed-->
