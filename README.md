@@ -31,9 +31,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
-* [Full Ice Scrimmage!](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-25-scrimmaging.html)
-* [The HP 2225 ThinkJet](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-hp-2225-thinkjet-replacement-flex-pcb.html)
-* [GPO Phone Exchange Lamp](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-gpo-alarm-lamp.html)
-* [Hockey Jersey Sublimation Printing](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-16-sublimation-jerseys.html)
-* [Hockey Lessons are Fun](http:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-04-12-the-hockey-lessons.html)
+* [EMF Camp 2026](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-07-20-emf-camp-2026.html)
+* [So many scrimmages](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-07-10-so-many-scrimmages.html)
+* [Full Ice Scrimmage!](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-25-scrimmaging.html)
+* [The HP 2225 ThinkJet](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-hp-2225-thinkjet-replacement-flex-pcb.html)
+* [GPO Phone Exchange Lamp](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-gpo-alarm-lamp.html)
 <!--END_SECTION:feed-->
