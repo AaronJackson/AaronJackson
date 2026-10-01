@@ -31,9 +31,9 @@ or [plant some trees](https://ecologi.com/aaronjackson?r=60ba3335dc24a022bb3f46d
 This section is automatically updated using [RSS to README GitHub Action](https://github.com/JasonEtco/rss-to-readme).
 
 <!--START_SECTION:feed-->
+* [A Big Clock](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-09-04-the-big-clock.html)
+* [Summer of ice hockey](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-09-04-a-summer-of-ice-hockey.html)
 * [EMF Camp 2026](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-07-20-emf-camp-2026.html)
 * [So many scrimmages](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-07-10-so-many-scrimmages.html)
 * [Full Ice Scrimmage!](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-25-scrimmaging.html)
-* [The HP 2225 ThinkJet](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-hp-2225-thinkjet-replacement-flex-pcb.html)
-* [GPO Phone Exchange Lamp](https:&#x2F;&#x2F;aaronsplace.co.uk&#x2F;blog&#x2F;2026-05-18-gpo-alarm-lamp.html)
 <!--END_SECTION:feed-->
